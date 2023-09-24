@@ -1,0 +1,32 @@
+body {
+    font-family: "Open-Sans", sans-serif;
+    color: darkslategrey
+}
+h1 {
+    color: darkslategrey;
+    background-color: white;
+}
+img {
+    width: 25%;
+    text-align: left;
+}
+figure {
+    width: 40%;
+    display: inline-block;
+}
+figcaption span {
+    font-size: .85em;
+}
+p#product-description {
+    width: 48%;
+    display: inline-block;
+    margin: 20px 0 20px 0;
+    text-align: justify;
+}
+div.review {
+    width: 48%;
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+    margin: 20px 0 20px 0;
+}
